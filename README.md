@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aleksandr Markin
 - 👀 I’m interested in a programming in particular HTML, CSS, Javascript etc.
 - 🌱 I’m currently learning English and HTML, CSS, JS.
-- 💞️ I’m looking to collaborate on someone how would like to share knowledge.
 - 📫 How to reach me +79637771690, alexsandr918@mail.ru
 
 <!---
